@@ -10,5 +10,5 @@ layout: default
 
 <br>
 
-{% include 03-links.md %}
+![Shrek](https://dank.lol/wp-content/uploads/rip-wheelie-boiiiiii-rdm1647-602x541.jpg)
 
